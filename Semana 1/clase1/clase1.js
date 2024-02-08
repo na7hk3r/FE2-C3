@@ -56,3 +56,13 @@
   }
 
   iniciarJuego();
+
+  /* 
+      Equipo 1:
+    - Beatriz Collin
+    - Camila Robles
+    - Zabdiel Isai Silvestre Reyes
+    - Fabricio Acosta
+    - Gonzalo Acosta
+    - Mathias Curbelo
+  */
